@@ -1,1 +1,12 @@
-# [react-posts](https://react-node-posts-202202.netlify.app/)
+# node-posts-server
+## email: test@testnet.co.us, pw: test1234
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
