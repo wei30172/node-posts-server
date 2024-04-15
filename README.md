@@ -1,5 +1,4 @@
 # node-posts-server
-## email: test@testnet.co.us, pw: test1234
 
 ## Project setup
 ```
